@@ -2,4 +2,6 @@
 #include<conio.h>
 void main()
 {
+printf("enter the registration number");
+printf("enter the student name");
 }
